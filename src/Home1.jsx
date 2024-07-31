@@ -215,7 +215,7 @@ function Home() {
           color: "white",
         }}
       >
-        <p>&copy; 2024 Initializ Inc. All rights reserved.</p>
+        <p>&copy; 2024 Imagine AI. All rights reserved.</p>
       </footer>
     </div>
   );
